@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.wordWrapColumn": 80,
+    "python.pythonPath": "venv/bin/python",
+    "editor.formatOnSave": true,
+    "markdown.preview.typographer": true,
+    "terminal.integrated.fontSize": 14
+}
